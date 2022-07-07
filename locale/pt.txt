@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C183B6B8_D4FB_08BC_41CD_A4BD2FB5355A.source = http://instagram.com/kangoo360?igshid=YmMyMTA2M2Y=
+LinkBehaviour_DB88992B_D499_395D_41C4_C6A1FD7E9C02.source = https://instagram.com/kangoo360?igshid=YmMyMTA2M2Y=
+LinkBehaviour_DA30B056_D497_07F7_41D2_18B7241876CF.source = https://wa.me/5532999841674
+LinkBehaviour_C931388E_D072_4161_41B9_D832C4CDB38B.source = https://wa.me/5532999841674
+
+## Media
+
+### Title
+panorama_B217A0CC_AC02_0210_41D4_9FAD1D3B26C0.label = Entrada
+panorama_B216BD8B_AC02_0217_41CC_4170893E66D9.label = consultório 1
+panorama_B216E086_AC02_0211_41DA_DFAC7F7A1CF4.label = consultório 1 fundo
+panorama_B216B6E4_AC02_0E11_41E2_52FDA944D8F8.label = consultório 1 inicio
+panorama_B216ABC2_AC02_0611_41DB_CCE34F6E0071.label = consultório 1 meio
+panorama_B21682AC_AC02_0611_41D1_DD4E7289FE87.label = consultório 1 mesa
+panorama_B21799CC_AC02_0211_41DA_3791EFF62ACE.label = consultório 2 fundo
+panorama_8CEBAC9D_AC02_0233_41E0_50B3B3E9C01B.label = consultório 2 meio
+panorama_B2179581_AC02_0213_41D1_42A4D3E2A285.label = consultório 2 porta
+panorama_B02693A6_AC02_0611_41DA_A0FCB0C9816A.label = portas consultórios
+panorama_B216B420_AC02_0211_41E3_D0EAFCE0E2C1.label = recepção
+panorama_B66EEBCF_AC02_062F_41E0_125C6CFB71FE.label = sala de espera
+
+## Skin
+
+### Button
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Consultório 1
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Consultório 1
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Consultório 2
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Consultório 2
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Fale Conosco
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Fale Conosco
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Recepção
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Recepção
+
+### Image
+Image_B751529B_AC06_0637_41CA_8BD249810401.url = skin/Image_B751529B_AC06_0637_41CA_8BD249810401_pt.png
+Image_C34C5A50_D3DB_73E7_41E2_67E1441C33C0.url = skin/Image_C34C5A50_D3DB_73E7_41E2_67E1441C33C0_pt.png
+
+### Multiline Text
+HTMLText_C08F493B_D4F7_39BD_41E1_B02AA241024C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;"><B>Feito por @kangoo360</B></SPAN></SPAN></DIV></div>
+HTMLText_C24C8CFF_D3FF_1099_41EA_247CE047C352.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;font-family:'Microsoft YaHei';"><B>Feito por @Kangoo360</B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Edifício Top Center</I></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Av. Br. Rio Branco, 1863 sl 304</I></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Centro - Juiz de Fora-MG</I></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>36.013-900</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Av. Br. do Rio Branco, 1863 sl 304 - Juiz de Fora-MG
+
+### Title
+tour.name = Wbyster Lopes - Tour Virtual 360º
